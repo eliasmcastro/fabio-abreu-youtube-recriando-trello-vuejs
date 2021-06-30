@@ -32,12 +32,12 @@
 ### Clonar este repositório
 
 ```bash
-git clone https://github.com/eliasmcastro/recriando-trello-vue.git
+git clone https://github.com/eliasmcastro/recriando-trello-vuejs.git
 ```
 
 ### Executar
 
-- `cd recriando-trello-vue` para entrar na pasta
+- `cd recriando-trello-vuejs` para entrar na pasta
 - `npm install` para instalar as dependências do projeto
 - `npm run serve` para iniciar o servidor de desenvolvimento
 - Acessar http://localhost:8080
