@@ -17,10 +17,10 @@
   <a href="#anotações">Anotações</a>
 </p>
 
-<p align="center">Pokedex</p>
+<p align="center">Front-end</p>
 
 <p align="center">
-  <img alt="Fron-end" src=".github/frontend.png" width="90%">
+  <img alt="Front-end" src=".github/frontend.png" width="90%">
 </p>
 
 ## Como executar o projeto
