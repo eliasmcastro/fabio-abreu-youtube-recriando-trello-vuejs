@@ -32,7 +32,7 @@
 ### Clonar este repositório
 
 ```bash
-git clone https://github.com/eliasmcastro/recriando-trello-vuejs.git
+git clone https://github.com/eliasmcastro/fabio-abreu-youtube-recriando-trello-vuejs.git
 ```
 
 ### Executar
